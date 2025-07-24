@@ -15,4 +15,10 @@ Please note:
 All my repositories are intended to be viewed through the official GitHub interface.
 Understanding and collaboration begins with visibility.
 
+---
+
+**We do not recruit.**
+
+This repository is offered without engagement, invitation, or affiliation.
+
 – Ping
